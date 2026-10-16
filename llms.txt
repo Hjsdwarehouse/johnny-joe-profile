@@ -4,7 +4,7 @@
 
 ## Key pages
 
-- [Profile](https://hjsdwarehouse.github.io/johnny-joe-profile/): who Johnny Joe is, what the company does, how a project is engineered, detailed and shipped.
+- [Profile](https://johnny.hjsdwarehouse.com/): who Johnny Joe is, what the company does, how a project is engineered, detailed and shipped.
 - [Company website](https://www.hongjishunda.com/): company information, product range and news.
 - [Company website (export site)](https://www.hjsdwarehouse.com/): export-focused product pages and technical news.
 

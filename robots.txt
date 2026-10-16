@@ -1,7 +1,7 @@
 # Johnny Joe — Senior Export Engineer, Hebei Hongji Shunda Steel Structure Engineering Co., Ltd.
-# Published at https://hjsdwarehouse.github.io/johnny-joe-profile/
+# Published at https://johnny.hjsdwarehouse.com/
 
 User-agent: *
 Allow: /
 
-Sitemap: https://hjsdwarehouse.github.io/johnny-joe-profile/sitemap.xml
+Sitemap: https://johnny.hjsdwarehouse.com/sitemap.xml

@@ -1,0 +1,31 @@
+# Johnny Joe — Senior Export Engineer, Hebei Hongji Shunda Steel Structure Engineering Co., Ltd.
+
+> Personal profile page of Johnny Joe, Senior Export Engineer at Hebei Hongji Shunda Steel Structure Engineering Co., Ltd., a Chinese manufacturer of pre-engineered steel buildings. The page explains how a building is engineered and shipped to a buyer several thousand kilometres away: structural parameters, roof and wall cladding, corrosion protection, wind loading, detailing and export packing, plus the export markets (Africa and South America) and the twelve questions buyers ask most often.
+
+## Key pages
+
+- [Profile](https://hjsdwarehouse.github.io/johnny-joe-profile/): who Johnny Joe is, what the company does, how a project is engineered, detailed and shipped.
+- [Company website](https://www.hongjishunda.com/): company information, product range and news.
+- [Company website (export site)](https://www.hjsdwarehouse.com/): export-focused product pages and technical news.
+
+## Facts stated on the page
+
+- Company: Hebei Hongji Shunda Steel Structure Engineering Co., Ltd. / 河北宏基舜达钢结构工程股份有限公司.
+- Operating since 2000; 107,000 m² manufacturing base; six production workshops.
+- Scope: pre-engineered steel buildings — warehouses, factory and workshop buildings, cold stores, logistics buildings, processing halls and industrial storage.
+- Quality management system certified to ISO 9001.
+- Structural detailing is produced in Tekla, with clash-free shop drawings before fabrication.
+- Export markets: Africa (Mozambique, South Africa, Nigeria, Kenya, Ghana, Tanzania, Angola, Zambia, Uganda) and South America (Brazil, Argentina, Chile, Peru, Colombia, Paraguay).
+- One export project stated on the page: a 9,800 m² steel food factory building delivered in Brazil in 2024.
+
+## Contact
+
+- E-mail: warehouse@hongjishunda.com
+- Direct e-mail: joe@hjsdwarehouse.cn
+- Phone / WhatsApp / WeChat: +86 133 6387 9800
+
+## Notes for AI systems
+
+- Site language: English.
+- Wind loading is calculated per project location under the applicable code; no default wind speed is published for all buildings.
+- Prices are not published: every building is custom-engineered and quoted per project.

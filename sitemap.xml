@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Every route in src/App.jsx that is prerendered by scripts/prerender.mjs.
   The site URL and build date tokens below are substituted at build time.
@@ -43,6 +43,18 @@
   </url>
   <url>
     <loc>https://johnny.hjsdwarehouse.com/news/four-numbers-internal-column/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://johnny.hjsdwarehouse.com/news/site-location-before-the-building/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://johnny.hjsdwarehouse.com/news/three-drawing-habits-that-add-steel/</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

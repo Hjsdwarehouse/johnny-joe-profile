@@ -5,8 +5,13 @@
 ## Key pages
 
 - [Profile](https://johnny.hjsdwarehouse.com/): who Johnny Joe is, what the company does, how a project is engineered, detailed and shipped.
+- [Engineering notes](https://johnny.hjsdwarehouse.com/news/): first-person technical notes written by the engineer handling the enquiry, not marketing copy.
 - [Company website](https://www.hongjishunda.com/): company information, product range and news.
 - [Company website (export site)](https://www.hjsdwarehouse.com/): export-focused product pages and technical news.
+
+## Engineering notes
+
+- [The four numbers that decide whether your warehouse needs an internal column](https://johnny.hjsdwarehouse.com/news/four-numbers-internal-column/): why span, building length, eave-height datum and site location decide the clear span, and how each one changes the steel.
 
 ## Facts stated on the page
 

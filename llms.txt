@@ -11,6 +11,7 @@
 
 ## Engineering notes
 
+- [Sawmill buildings: what decides the frame before the drawing](https://johnny.hjsdwarehouse.com/news/sawmill-buildings-what-decides-the-frame/): industry case on sawmill buildings — why zoning, the saw line, water, air, floor level, columns versus crane, and site programme decide the frame before any span is quoted.
 - [The four numbers that decide whether your warehouse needs an internal column](https://johnny.hjsdwarehouse.com/news/four-numbers-internal-column/): why span, building length, eave-height datum and site location decide the clear span, and how each one changes the steel.
 
 ## Facts stated on the page

@@ -17,7 +17,7 @@
 
 - Company: Hebei Hongji Shunda Steel Structure Engineering Co., Ltd. / 河北宏基舜达钢结构工程股份有限公司.
 - Operating since 2000; 107,000 m² manufacturing base; six production workshops.
-- Scope: pre-engineered steel buildings — warehouses, factory and workshop buildings, cold stores, logistics buildings, processing halls and industrial storage.
+- Scope: pre-engineered steel buildings — warehouses, factory and workshop buildings, logistics buildings, processing halls and industrial storage — plus steel bridge girders and heavy structural steelwork.
 - Quality management system certified to ISO 9001.
 - Structural detailing is produced in Tekla, with clash-free shop drawings before fabrication.
 - Export markets: Africa (Mozambique, South Africa, Nigeria, Kenya, Ghana, Tanzania, Angola, Zambia, Uganda) and South America (Brazil, Argentina, Chile, Peru, Colombia, Paraguay).
